@@ -12,7 +12,7 @@ Los datos técnicos, fuentes, estructura, sesgos, limitaciones y citación está
 
 ## Autor
 
-- **[Tu nombre completo]** — _[Completar este campo desde GitHub]_
+- Leonel Andrés Cárdenas Castro
 
 ## Estructura del repositorio
 
