@@ -76,4 +76,9 @@ Los pesos `yolov8n-obb.pt` se descargan automáticamente de Ultralytics en la pr
 
 - Modelo: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) — licencia **AGPL-3.0** (también disponible licencia Enterprise).
 - Datos de preentrenamiento: conjunto [DOTA](https://captain-whu.github.io/DOTA/) (Ding et al., CVPR 2018).
-- Consulta la [ficha del modelo](fichas/ficha-yolov8n-obb.md) para la citación oficial.
+
+## Referencias
+
+- **Plantilla de la ficha:** plantilla oficial de HuggingFace Hub — [huggingface_hub/templates](https://github.com/huggingface/huggingface_hub/tree/main/src/huggingface_hub/templates).
+- **Formato de ficha de modelo:** Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). [Model cards for model reporting](https://arxiv.org/abs/1810.03993). In *Proceedings of the Conference on Fairness, Accountability, and Transparency* (pp. 220-229).
+- Consulta la [ficha del modelo](fichas/ficha-yolov8n-obb.md) para la citación oficial de YOLOv8, DOTA y Mitchell et al.
