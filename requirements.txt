@@ -1,0 +1,4 @@
+# Dependencias para los scripts de inferencia con YOLOv8n-obb
+ultralytics>=8.1.0
+torch>=2.0
+pillow>=9.0

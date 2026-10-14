@@ -1,0 +1,15 @@
+# Pesos del modelo (se descargan automáticamente de Ultralytics)
+*.pt
+
+# Resultados de inferencia
+runs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos virtuales y secretos
+venv/
+.venv/
+.env
