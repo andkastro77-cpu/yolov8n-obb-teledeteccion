@@ -131,8 +131,9 @@ Ding, J., Xue, N., Long, X., Wen, J., Xi, G., & Xia, G.-S. (2018). DOTA: A Large
 
 ## Dataset Card Authors [optional]
 
-[More Information Needed]
+Leonel Andrés Cárdenas Castro
 
 ## Dataset Card Contact
 
-[More Information Needed]
+- Correo: lacardenasc@udistrital.edu.co
+- GitHub: @andkastro77-cpu
